@@ -12,5 +12,5 @@
 #### JavaScript: The star of the project, bringing all the pieces of the puzzle together.
 
 # NOTES:
-## This project was created for learning purposes and to showcase skills in HTML, CSS, and especially JavaScript.
+## This project was created for learning purposes and to showcase skills in HTML, CSS, and especially JavaScript. This project includes screen reader support for people with visual impairments.
 ![tumblr_9d21a55bfb226b1c6692191b5d73db17_49709ba3_540](https://github.com/user-attachments/assets/8c2359a9-681e-4a96-baf5-b7c8f0fc9ae7)
