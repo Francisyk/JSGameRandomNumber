@@ -1,16 +1,16 @@
-# Jogo do Número Aleatório: uma entrada para o Javascript.
-### Este é um projeto simples com o uso do Javascript, mostrando como pequenas mudanças no código com a assistencia desta linguagem podem se tornar mais profissionais.
+# Random Number Game: an entry point to JavaScript.
+### This is a simple JavaScript project that shows how small changes in the code, with the help of the language, can make it more professional.
 
-## Como o Jogo Funciona?
-### O jogo tem uma mecânica bastante simples; você chuta um número e a máquina vai te dizer se o número é mais baixo que o número secreto, se é mais alto ou se você acertou.
+## How Does the Game Work?
+### The game has a simple mechanic where you guess a number, and the system tells you if it’s lower, higher, or exactly the secret number.
 ![tumblr_815b2567d0209a5f44ffe13b0711c040_1eda6e04_540](https://github.com/user-attachments/assets/ff29c117-67e8-434a-99ba-f508b10a1882)
 
-## Tecnologias Utilizadas:
-### Este projeto foi desenvolvido utilizando as seguintes tecnologias web:
-#### HTML: A espinha dorsal da estrutura, garantindo uma experiência de navegação fluida e acessível.
-#### CSS: Com a coloração focada em roxo e um layout futurista.
-#### JavaScript: A estrela do projeto, juntando todas as peças do quebra-cabeça.
+## Technologies Used:
+### This project was developed using the following web technologies:
+#### HTML: The backbone of the structure, ensuring a smooth and accessible navigation experience.
+#### CSS: Featuring a purple-focused color palette and a futuristic layout.
+#### JavaScript: The star of the project, bringing all the pieces of the puzzle together.
 
-# NOTAS:
-## Este é um projeto criado para fins de estudo e demonstração de habilidades em HTML, CSS e, principalmente, JavaScript.
+# NOTES:
+## This project was created for learning purposes and to showcase skills in HTML, CSS, and especially JavaScript.
 ![tumblr_9d21a55bfb226b1c6692191b5d73db17_49709ba3_540](https://github.com/user-attachments/assets/8c2359a9-681e-4a96-baf5-b7c8f0fc9ae7)
